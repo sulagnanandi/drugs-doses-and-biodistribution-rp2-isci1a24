@@ -1,0 +1,1 @@
+Research Project #2 in the Honours Integrated Science program at McMaster University. The topic is Drugs, Doses, and Biodistribution, with a focus on Adderall for our group. RP2-Report.pdf contains the main write-up. The other files are the presentation poster and Python/Jupyter Notebook files for data analysis work.
